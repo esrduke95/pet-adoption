@@ -1,3 +1,20 @@
 body {
     background-color: rosybrown;
 }
+#pets {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin: 5px;
+    padding: 5px;
+}
+
+.pet {
+    border: 5px dashed darksalmon;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+}
+img {
+    object-fit: cover;
+}
