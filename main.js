@@ -1,0 +1,1 @@
+console.log('hype about pet adoption');
